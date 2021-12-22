@@ -1,1 +1,2 @@
-# Codigo-Lucas-Pendulo
+# C20_boilerplate
+boilerplate for teacher activity
